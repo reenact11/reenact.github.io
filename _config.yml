@@ -97,10 +97,10 @@ author:
   name             : "JH Park"
   avatar           : "/assets/images/profile-image.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "끓어오르는 **열정**을 가진 개발자 **박재현**의 블로그"
-  location         : "Korea,Bucheon"
+  location         : "Korea, Bucheon"
   email            : "wogusdl100@gmail.com"
   links:
-    - label: "Email"
+    - label: "wogusdl100@gmail.com"# "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
