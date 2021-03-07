@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "JH Park"
   avatar           : "/assets/images/profile-image.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "끓어오르는 **열정**을 가진 개발자 **박재현**의 블로그"
+  bio              : "안녕하세요. 박재현입니다."
   location         : "Korea, Bucheon"
   email            : "wogusdl100@gmail.com"
   links:
